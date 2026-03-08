@@ -141,7 +141,7 @@ Vídeo da atividade
 No vídeo abaixo é apresentada a demonstração da configuração do ambiente, da estrutura do projeto e da execução do aplicativo nas diferentes plataformas.
 
 Link do vídeo:
-https://drive.google.com/drive/folders/1F-VTNFqHqW3ugdsuBiSU9xHblv9_A7Q0?hl=pt-br
+[https://drive.google.com/drive/folders/1F-VTNFqHqW3ugdsuBiSU9xHblv9_A7Q0?hl=pt-br](https://drive.google.com/drive/folders/1F-VTNFqHqW3ugdsuBiSU9xHblv9_A7Q0?usp=sharing)
 
 Conclusão
 
