@@ -26,7 +26,8 @@ Essa configuração permite que os comandos do Flutter possam ser executados dir
 
 Para verificar se todas as ferramentas estavam instaladas corretamente, foi utilizado o comando:
 
-```bash
+```
+bash
 ```
 
 flutter doctor
